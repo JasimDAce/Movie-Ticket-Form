@@ -1,0 +1,82 @@
+h1{
+    margin: 30px;
+    margin-left: 65px;
+}
+form{
+    margin: 30px;
+    margin-left: 50px;
+}
+label{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+input,
+select{
+    
+    font-size: 15px;
+    padding-top: 12px;
+    padding-bottom: 12x;
+    padding-left: 5px;
+    padding-right: 90px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+.card{
+    margin-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    /* border: 2px solid gray; */
+    border-radius: 5px;
+}
+body{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100hv;
+}
+button{
+    background-color: #04AA6D;
+    font-size: 15px;
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin-left: 25%;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+.am{
+    /* margin-left: 10px; */
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+.date{
+    padding-right: 10px;
+}
+.text{
+    padding-right: 0px;
+}
+.row{
+    margin-right: 124px;
+}
+.row-input{
+    width: 45px;
+    margin-right: 10px;
+}
+.input-name{
+    padding-right: 110px;
+}
+.movie-title{
+    padding-right: 156px;
+    padding-top: 15px;
+    padding-bottom: 3px;
+}
+.date-label{
+    margin-right: 106px;
+}
